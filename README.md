@@ -1,6 +1,5 @@
 # Hi, I'm Marshall 👋
 
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![UEFI](https://img.shields.io/badge/-UEFI-007ACC?style=flat-square&logo=intel&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-10A37F?style=flat-square&logo=openai&logoColor=white)
@@ -10,8 +9,8 @@
 ### Projects
 * [**SkillGuard**](https://github.com/wangxumarshall/SkillGuard) - an AI security framework called SkillGuard Sentinel, which is mainly used to scan and detect whether newly installed skills carry viruses.[经典Skill病毒案例](https://web3caff.com/archives/133723
 ).
-* [**TheWayBack**](https://c7jzm7ptjf.coze.site/) - 记录自己，AI辅助探索生命的意义
-* [**CouncilAI**](http://fw9zrk44ty.coze.site/) - 智能顾问类AI工具，提供专业的决策支持和咨询服务
+* [**TheWayBack**](https://c7jzm7ptjf.coze.site/) - Record yourself, explore the meaning of life with AI.
+* [**CouncilAI**](http://fw9zrk44ty.coze.site/) - An AI-powered intelligent consulting tool that delivers professional decision support and consulting services.
 
 ### Skills
 * [**专利侵权线索挖掘**](https://www.coze.cn/?skills=7597419564686901291) - 根据专利ID/链接/pdf文件，挖掘友商的侵权线索，助力知识产权保护。
