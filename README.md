@@ -9,8 +9,8 @@
 ### Projects
 * [**SkillGuard**](https://github.com/wangxumarshall/SkillGuard) - an AI security framework called SkillGuard Sentinel, which is mainly used to scan and detect whether newly installed skills carry viruses.[Demo](https://ai.studio/apps/drive/1UQ9KNWhBOhe8rjgG--LxVgrjEVgIf7u-) [PPT]() [经典Skill病毒案例](https://web3caff.com/archives/133723
 ).
-* [**TheWayBack**](https://c7jzm7ptjf.coze.site/) - Record yourself, explore the meaning of life with AI.
-* [**CouncilAI**](http://fw9zrk44ty.coze.site/) - An AI-powered intelligent consulting tool that delivers professional decision support and consulting services.
+* [**TheWayBack**](https://c7jzm7ptjf.coze.site/) - Record yourself, explore the meaning of life with AI. [PPT](https://mp.weixin.qq.com/s/1Kn5KVVTInh_ivMMoSQ4Vw)
+* [**CouncilAI**](http://fw9zrk44ty.coze.site/) - An AI-powered intelligent consulting tool that delivers professional decision support and consulting services. [PPT]()
 * tokenbank -
 * clawdock -
 * clawteam -
