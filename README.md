@@ -13,7 +13,7 @@
 * [**CouncilAI**](http://fw9zrk44ty.coze.site/) - An AI-powered intelligent consulting tool that delivers professional decision support and consulting services. [PPT]()
 * tokenbank -
 * clawdock -
-* clawteam -
+* [**clawteam**](https://github.com/wangxumarshall/clawteam) - ClawTeam solves AI and context fragmentation in collaboration by integrating AI Agents as "first-class citizens" into group chats. Powered by a cross-conversation Global Memory, it drives Human-AI symbiosis and unlocks "Group Intelligence".
 
 ### Skills
 * [**专利侵权线索挖掘**](https://www.coze.cn/?skills=7597419564686901291) - 根据专利ID/链接/pdf文件，挖掘友商的侵权线索，助力知识产权保护。
