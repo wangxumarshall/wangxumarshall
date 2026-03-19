@@ -15,6 +15,7 @@
 ).
 * [**TheWayBack**](https://c7jzm7ptjf.coze.site/) - Record yourself, explore the meaning of life with AI. [PPT](https://mp.weixin.qq.com/s/1Kn5KVVTInh_ivMMoSQ4Vw)
 * [**CouncilAI**](http://fw9zrk44ty.coze.site/) - An AI-powered intelligent consulting tool that delivers professional decision support and consulting services. [PPT]()
+* TokenForbes - The New Digital Oil. In the AI era, tokens and compute have replaced traditional physical resources as the absolute measure of influence. Welcome to the Global AI Token Consumption Leaderboard.
 * tokenbank -
 * clawdock -
 * CryptoSaga -
