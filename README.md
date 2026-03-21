@@ -2,7 +2,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![UEFI](https://img.shields.io/badge/-UEFI-007ACC?style=flat-square&logo=intel&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-10A37F?style=flat-square&logo=openai&logoColor=white)
+![AgenticOS](https://img.shields.io/badge/-AI-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 
 ## hobby
